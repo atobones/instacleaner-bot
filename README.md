@@ -13,5 +13,4 @@ Telegram bot that turns Instagram links into a clean **preview-only video card**
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-q
 
